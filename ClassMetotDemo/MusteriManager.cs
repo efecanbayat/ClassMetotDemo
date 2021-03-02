@@ -23,6 +23,7 @@ namespace ClassMetotDemo
         public void Listele()
         {
             Console.WriteLine("----------------Müşteri Listesi----------------");
+
             foreach (Musteri musteri in musteriler)
             {
                 
